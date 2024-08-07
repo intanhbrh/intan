@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Intan</h1>
-<h3 align="center">I'm a software engineering student at Multimedia University in Malaysia. I'm passionate about web design, web development, mobile applications, and open-source contributions.</h3>
+<h3 align="center">I'm a software engineering student at Multimedia University in Malaysia.</h3>
 
 - 🌱 I’m currently exploring **Frameworks, the latest technologies in AI**
+
+- 🌱 I'm passionate about **web design, web development, mobile applications, and open-source contributions.**
 
 - 📫 How to reach me **intanhbrh@gmail.com**
 
